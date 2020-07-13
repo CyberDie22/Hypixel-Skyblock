@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spigot 1.13.2:jar">
+    <output-path>$PROJECT_DIR$/../../../Minecraft Server Jar/Test Server/plugins</output-path>
+    <root id="archive" name="Spigot 1.13.2.jar">
+      <element id="module-output" name="Spigot 1.13.2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Minecraft Server Jar/spigot-1.13.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

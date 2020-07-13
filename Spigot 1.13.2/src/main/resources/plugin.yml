@@ -1,0 +1,6 @@
+name: HypixelSkyblock
+version: ${project.version}
+main: me.cyberdie22.hyskyblock.main
+api-version: 1.13
+authors: [CyberDie22]
+description: Recreation of Hypixel Skyblock on Spigot 1.13.2
